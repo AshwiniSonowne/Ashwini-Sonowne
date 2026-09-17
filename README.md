@@ -6,7 +6,7 @@
 
 📍 Hyderabad, India   | 📊 Data Analytics & Business Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwini%20Sonowne-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/ashwini-sonowne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwini%20Sonowne-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashwini-sonowne/)
 [![GitHub](https://img.shields.io/badge/GitHub-AshwiniSonwone-181717?style=for-the-badge\&logo=github)](https://github.com/AshwiniSonowne)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashwinihotker01@gmail.com)
 
@@ -105,7 +105,7 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/ashwini-sonowne">
+<a href="https://www.linkedin.com/in/ashwini-sonowne/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
