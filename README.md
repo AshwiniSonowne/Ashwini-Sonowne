@@ -51,9 +51,9 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 
 <td width="50%" valign="top">
 
-### 🏨 Hospitality Analytics
+### 🏨 Olist E-commerce
 
-Interactive hospitality analytics dashboard designed to analyze hotel performance, revenue, bookings, cancellations, and key business KPIs.
+Analyzed Brazilian e-commerce data from the Olist dataset to uncover insights into sales performance, customer behavior, payment methods, product categories, reviews, and delivery performance. Built interactive dashboards and performed data analysis to track key business KPIs and identify trends that can support data-driven decision-making.
 
 **Tech Stack**
 - Excel
@@ -61,23 +61,19 @@ Interactive hospitality analytics dashboard designed to analyze hotel performanc
 - Tableau
 - Data Visualization
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/Hospitality-Analytics)
-
 </td>
 
 <td width="50%" valign="top">
 
-### ✈️ HighCloud Airlines Data Analysis
+### Banking Analytics
 
-Interactive airline analytics project focused on extracting business insights from aviation data.
+Analyzed banking and loan data to identify key trends in loan performance, customer demographics, collections, interest, delinquency, and loan status. Developed an interactive dashboard to monitor important banking KPIs and provide clear business insights for data-driven decision-making.
 
 **Tech Stack**
 - Excel
 - Power BI
 - Tableau
 - SQL
-
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
 
 </td>
 
