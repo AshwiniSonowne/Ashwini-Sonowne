@@ -49,7 +49,7 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏨 Hospitality Analytics
 
@@ -61,11 +61,11 @@ Interactive hospitality analytics dashboard designed to analyze hotel performanc
 - Tableau
 - Data Visualization
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/Hospitality-Analytics)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/Hospitality-Analytics)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ✈️ HighCloud Airlines Data Analysis
 
@@ -77,11 +77,12 @@ Interactive airline analytics project focused on extracting business insights fr
 - Tableau
 - SQL
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/omkarpinapaka/HighCloud-Airlines-Data-Analysis)
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+</table>
 
 ---
 
@@ -107,11 +108,7 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="ashwinihotker01@gmail.com">
+<a href="mailto:ashwinihotker01@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -121,12 +118,7 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 
 ## 💼 Career Focus
 
-**Data Analyst • Business Analyst
-• BI Analyst
-• Business Intelligence Engineer
-• MIS Analyst
-• Finance Analyst
-• HR Analyst**
+**Data Analyst** • **Business Analyst** • **BI Analyst** • **Business Intelligence Engineer** • **MIS Analyst** • **Finance Analyst** • **HR Analyst**
 
 > *"Good decisions start with good data."*
 
@@ -139,7 +131,7 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwinisonowne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AshwiniSonowne&label=Profile%20Views&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
