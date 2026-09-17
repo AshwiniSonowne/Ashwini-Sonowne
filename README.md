@@ -83,6 +83,8 @@ Interactive airline analytics project focused on extracting business insights fr
 
 <td width="33%" valign="top">
 
+---
+
 ## 📚 Currently Learning
 
 I'm currently strengthening my skills as a **Data Analyst** with a focus on:
