@@ -83,10 +83,6 @@ Interactive airline analytics project focused on extracting business insights fr
 
 <td width="33%" valign="top">
 
-
-
----
-
 ## 📚 Currently Learning
 
 I'm currently strengthening my skills as a **Data Analyst** with a focus on:
@@ -110,4 +106,40 @@ I'm open to connecting with **recruiters, analysts, hiring managers, and profess
 </a>
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoC
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="ashwinihotker01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Career Focus
+
+**Data Analyst • Business Analyst
+• BI Analyst
+• Business Intelligence Engineer
+• MIS Analyst
+• Finance Analyst
+• HR Analyst**
+
+> *"Good decisions start with good data."*
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br/>
+  ⭐ Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashwinisonowne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  © 2026 <b>Ashwini Sonowne</b> · Built with data, curiosity & continuous learning.
+</p>
